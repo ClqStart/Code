@@ -1,5 +1,6 @@
 package config;
 
+import lock.ZKUtills;
 import org.apache.zookeeper.ZooKeeper;
 import org.junit.After;
 import org.junit.Before;

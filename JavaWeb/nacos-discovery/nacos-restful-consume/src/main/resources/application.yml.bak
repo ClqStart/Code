@@ -1,0 +1,18 @@
+server:
+  port: 56020
+  # 服务生产方地址
+#provider:
+#  address: 127.0.0.1:56010
+
+spring:
+  application:
+    name: nacos-restful-consume
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 #Nacos服务注册中心地址
+        namespace: 387b9eb3-42c5-464e-9c71-fc053e50bfb3
+
+nacos-restful-provider:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

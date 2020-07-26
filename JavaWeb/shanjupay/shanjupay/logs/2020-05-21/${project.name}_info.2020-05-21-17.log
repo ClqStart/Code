@@ -1,0 +1,1206 @@
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:27,251 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:27,854 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:30,194 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:30,195 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:33,448 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:42,598 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:53,344 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:54,285 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:00:57,258 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:03,456 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:09,036 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:09,038 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:12,603 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:24,292 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:27,264 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:27,856 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:30,196 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:30,197 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:33,460 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:42,609 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:53,346 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:54,298 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:01:57,270 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:03,466 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:09,040 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:09,041 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:12,616 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:24,304 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:27,276 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:27,858 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:30,199 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:30,200 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:33,472 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:42,622 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:53,349 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:54,311 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:02:57,282 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:03,480 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:09,042 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:09,044 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:12,627 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:24,420 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:27,289 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:27,860 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:30,202 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:30,203 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:33,493 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:42,633 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:53,350 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:54,428 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:03:57,295 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:03,503 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:09,044 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:09,045 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:12,637 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:24,434 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:27,300 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:27,862 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:30,204 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:30,205 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:33,508 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,049 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-connect
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,050 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Parameters : [merchant-platform]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,051 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Types : [VARCHAR]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,053 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001, rs-50061} query executed. 3.209273 millis. select client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove from oauth_client_details where client_id = ?
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,054 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50061} open
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,054 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50061} Header: [client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,055 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50061} Result: [merchant-platform, 123456, shanju-resource, read, client_credentials,password,authorization_code,implicit,refresh_token, null, ROLE_MERCHANT,ROLE_USER, 31536000, 259200, null, false]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,056 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50061} closed
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,056 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} clearParameters. 
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,057 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-recycle
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,083 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-connect
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,084 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Parameters : [merchant-platform]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,085 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Types : [VARCHAR]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,087 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001, rs-50062} query executed. 2.921423 millis. select client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove from oauth_client_details where client_id = ?
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,088 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50062} open
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,089 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50062} Header: [client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,090 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50062} Result: [merchant-platform, 123456, shanju-resource, read, client_credentials,password,authorization_code,implicit,refresh_token, null, ROLE_MERCHANT,ROLE_USER, 31536000, 259200, null, false]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,091 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50062} closed
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,092 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} clearParameters. 
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,093 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-recycle
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,106 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-connect
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,107 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Parameters : [merchant-platform]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,107 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Types : [VARCHAR]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,109 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001, rs-50063} query executed. 2.62051 millis. select client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove from oauth_client_details where client_id = ?
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,110 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50063} open
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,112 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50063} Header: [client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,113 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50063} Result: [merchant-platform, 123456, shanju-resource, read, client_credentials,password,authorization_code,implicit,refresh_token, null, ROLE_MERCHANT,ROLE_USER, 31536000, 259200, null, false]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,114 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50063} closed
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,115 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} clearParameters. 
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,116 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-recycle
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,125 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-connect
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,126 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Parameters : [merchant-platform]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,126 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} Types : [VARCHAR]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,131 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001, rs-50064} query executed. 4.732034 millis. select client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove from oauth_client_details where client_id = ?
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,132 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50064} open
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,133 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50064} Header: [client_id, client_secret, resource_ids, scope, authorized_grant_types, web_server_redirect_uri, authorities, access_token_validity, refresh_token_validity, additional_information, autoapprove]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,134 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50064} Result: [merchant-platform, 123456, shanju-resource, read, client_credentials,password,authorization_code,implicit,refresh_token, null, ROLE_MERCHANT,ROLE_USER, 31536000, 259200, null, false]
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,136 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:142] - {conn-10005, pstmt-20001, rs-50064} closed
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,138 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:137] - {conn-10005, pstmt-20001} clearParameters. 
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,141 DEBUG [http-nio-56020-exec-3][Log4j2Filter.java:132] - {conn-10005} pool-recycle
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,341 DEBUG [DubboClientHandler-169.254.149.21:20880-thread-8][DecodeHandler.java:59] -  [DUBBO] Decode decodeable message org.apache.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,317 ERROR [DubboServerHandler-169.254.149.21:20880-thread-106][ExceptionFilter.java:86] -  [DUBBO] Got unchecked and undeclared exception which called by 169.254.149.21. service: com.shanjupay.user.api.TenantService, method: login, exception: org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID, dubbo version: 2.7.3, current host: 169.254.149.21
+org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:89)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy147.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:168)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:82)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.selectPrivilegeRoleInTenant(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy157.selectPrivilegeRoleInTenant(Unknown Source)
+	at com.shanjupay.user.service.AuthorizationServiceImpl.authorize(AuthorizationServiceImpl.java:58)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$f5b184f8.authorize(<generated>)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$dbd667a6.authorize(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl.login(TenantServiceImpl.java:729)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$342506f8.login(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$3714c580.login(<generated>)
+	at org.apache.dubbo.common.bytecode.Wrapper3.invokeMethod(Wrapper3.java)
+	at org.apache.dubbo.rpc.proxy.javassist.JavassistProxyFactory$1.doInvoke(JavassistProxyFactory.java:47)
+	at org.apache.dubbo.rpc.proxy.AbstractProxyInvoker.invoke(AbstractProxyInvoker.java:84)
+	at org.apache.dubbo.config.invoker.DelegateProviderMetaDataInvoker.invoke(DelegateProviderMetaDataInvoker.java:56)
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56)
+	at org.apache.dubbo.rpc.filter.ExceptionFilter.invoke(ExceptionFilter.java:55)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.TimeoutFilter.invoke(TimeoutFilter.java:48)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.TraceFilter.invoke(TraceFilter.java:81)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ContextFilter.invoke(ContextFilter.java:96)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.GenericFilter.invoke(GenericFilter.java:148)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ClassLoaderFilter.invoke(ClassLoaderFilter.java:38)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.EchoFilter.invoke(EchoFilter.java:41)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157)
+	at org.apache.dubbo.rpc.protocol.dubbo.DubboProtocol$1.reply(DubboProtocol.java:152)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.handleRequest(HeaderExchangeHandler.java:102)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:193)
+	at org.apache.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:51)
+	at org.apache.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:57)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:806)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor309.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 81 more
+Caused by: com.alibaba.druid.sql.parser.ParserException: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY
+	at com.alibaba.druid.sql.parser.SQLParser.printError(SQLParser.java:287)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:532)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:182)
+	at com.alibaba.druid.wall.WallProvider.checkInternal(WallProvider.java:624)
+	at com.alibaba.druid.wall.WallProvider.check(WallProvider.java:578)
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:793)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	... 84 more
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,348 ERROR [http-nio-56020-exec-3][TokenEndpoint.java:169] - Handling error: InternalAuthenticationServiceException, login error org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:89)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy147.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:168)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:82)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.selectPrivilegeRoleInTenant(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy157.selectPrivilegeRoleInTenant(Unknown Source)
+	at com.shanjupay.user.service.AuthorizationServiceImpl.authorize(AuthorizationServiceImpl.java:58)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$f5b184f8.authorize(<generated>)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$dbd667a6.authorize(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl.login(TenantServiceImpl.java:729)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$342506f8.login(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$3714c580.login(<generated>)
+	at org.apache.dubbo.common.bytecode.Wrapper3.invokeMethod(Wrapper3.java)
+	at org.apache.dubbo.rpc.proxy.javassist.JavassistProxyFactory$1.doInvoke(JavassistProxyFactory.java:47)
+	at org.apache.dubbo.rpc.proxy.AbstractProxyInvoker.invoke(AbstractProxyInvoker.java:84)
+	at org.apache.dubbo.config.invoker.DelegateProviderMetaDataInvoker.invoke(DelegateProviderMetaDataInvoker.java:56)
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56)
+	at org.apache.dubbo.rpc.filter.ExceptionFilter.invoke(ExceptionFilter.java:55)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.TimeoutFilter.invoke(TimeoutFilter.java:48)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.TraceFilter.invoke(TraceFilter.java:81)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ContextFilter.invoke(ContextFilter.java:96)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.GenericFilter.invoke(GenericFilter.java:148)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ClassLoaderFilter.invoke(ClassLoaderFilter.java:38)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.EchoFilter.invoke(EchoFilter.java:41)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157)
+	at org.apache.dubbo.rpc.protocol.dubbo.DubboProtocol$1.reply(DubboProtocol.java:152)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.handleRequest(HeaderExchangeHandler.java:102)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:193)
+	at org.apache.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:51)
+	at org.apache.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:57)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:806)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor309.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 81 more
+Caused by: com.alibaba.druid.sql.parser.ParserException: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY
+	at com.alibaba.druid.sql.parser.SQLParser.printError(SQLParser.java:287)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:532)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:182)
+	at com.alibaba.druid.wall.WallProvider.checkInternal(WallProvider.java:624)
+	at com.alibaba.druid.wall.WallProvider.check(WallProvider.java:578)
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:793)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	... 84 more
+
+org.springframework.security.authentication.InternalAuthenticationServiceException: login error org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:89)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy147.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:168)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:82)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.selectPrivilegeRoleInTenant(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy157.selectPrivilegeRoleInTenant(Unknown Source)
+	at com.shanjupay.user.service.AuthorizationServiceImpl.authorize(AuthorizationServiceImpl.java:58)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$f5b184f8.authorize(<generated>)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$dbd667a6.authorize(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl.login(TenantServiceImpl.java:729)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$342506f8.login(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$3714c580.login(<generated>)
+	at org.apache.dubbo.common.bytecode.Wrapper3.invokeMethod(Wrapper3.java)
+	at org.apache.dubbo.rpc.proxy.javassist.JavassistProxyFactory$1.doInvoke(JavassistProxyFactory.java:47)
+	at org.apache.dubbo.rpc.proxy.AbstractProxyInvoker.invoke(AbstractProxyInvoker.java:84)
+	at org.apache.dubbo.config.invoker.DelegateProviderMetaDataInvoker.invoke(DelegateProviderMetaDataInvoker.java:56)
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56)
+	at org.apache.dubbo.rpc.filter.ExceptionFilter.invoke(ExceptionFilter.java:55)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.TimeoutFilter.invoke(TimeoutFilter.java:48)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.TraceFilter.invoke(TraceFilter.java:81)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ContextFilter.invoke(ContextFilter.java:96)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.GenericFilter.invoke(GenericFilter.java:148)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ClassLoaderFilter.invoke(ClassLoaderFilter.java:38)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.EchoFilter.invoke(EchoFilter.java:41)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157)
+	at org.apache.dubbo.rpc.protocol.dubbo.DubboProtocol$1.reply(DubboProtocol.java:152)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.handleRequest(HeaderExchangeHandler.java:102)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:193)
+	at org.apache.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:51)
+	at org.apache.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:57)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:806)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor309.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 81 more
+Caused by: com.alibaba.druid.sql.parser.ParserException: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY
+	at com.alibaba.druid.sql.parser.SQLParser.printError(SQLParser.java:287)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:532)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:182)
+	at com.alibaba.druid.wall.WallProvider.checkInternal(WallProvider.java:624)
+	at com.alibaba.druid.wall.WallProvider.check(WallProvider.java:578)
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:793)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	... 84 more
+
+	at com.shanjupay.uaa.integration.IntegrationUserDetailsAuthenticationProvider.retrieveUser(IntegrationUserDetailsAuthenticationProvider.java:52)
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:144)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:175)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:200)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter$AuthenticationManagerDelegator.authenticate(WebSecurityConfigurerAdapter.java:503)
+	at org.springframework.security.oauth2.provider.password.ResourceOwnerPasswordTokenGranter.getOAuth2Authentication(ResourceOwnerPasswordTokenGranter.java:71)
+	at org.springframework.security.oauth2.provider.token.AbstractTokenGranter.getAccessToken(AbstractTokenGranter.java:72)
+	at org.springframework.security.oauth2.provider.token.AbstractTokenGranter.grant(AbstractTokenGranter.java:67)
+	at org.springframework.security.oauth2.provider.CompositeTokenGranter.grant(CompositeTokenGranter.java:38)
+	at org.springframework.security.oauth2.config.annotation.web.configurers.AuthorizationServerEndpointsConfigurer$4.grant(AuthorizationServerEndpointsConfigurer.java:583)
+	at org.springframework.security.oauth2.provider.endpoint.TokenEndpoint.postAccessToken(TokenEndpoint.java:132)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.oauth2.provider.client.ClientCredentialsTokenEndpointFilter.successfulAuthentication(ClientCredentialsTokenEndpointFilter.java:131)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:240)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:679)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.security.authentication.BadCredentialsException: login error org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+org.springframework.jdbc.UncategorizedSQLException: 
+### Error querying database.  Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### The error may exist in com/shanjupay/user/mapper/AuthorizationPrivilegeMapper.java (best guess)
+### The error may involve com.shanjupay.user.mapper.AuthorizationPrivilegeMapper.selectPrivilegeRoleInTenant
+### The error occurred while executing a query
+### SQL: select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+### Cause: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID; nested exception is java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:89)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy147.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:168)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:82)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.selectPrivilegeRoleInTenant(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy157.selectPrivilegeRoleInTenant(Unknown Source)
+	at com.shanjupay.user.service.AuthorizationServiceImpl.authorize(AuthorizationServiceImpl.java:58)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$f5b184f8.authorize(<generated>)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$FastClassBySpringCGLIB$$3b82c498.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.AuthorizationServiceImpl$$EnhancerBySpringCGLIB$$dbd667a6.authorize(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl.login(TenantServiceImpl.java:729)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$342506f8.login(<generated>)
+	at com.shanjupay.user.service.TenantServiceImpl$$FastClassBySpringCGLIB$$5c82a28f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at com.alibaba.druid.support.spring.stat.DruidStatInterceptor.invoke(DruidStatInterceptor.java:73)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:688)
+	at com.shanjupay.user.service.TenantServiceImpl$$EnhancerBySpringCGLIB$$3714c580.login(<generated>)
+	at org.apache.dubbo.common.bytecode.Wrapper3.invokeMethod(Wrapper3.java)
+	at org.apache.dubbo.rpc.proxy.javassist.JavassistProxyFactory$1.doInvoke(JavassistProxyFactory.java:47)
+	at org.apache.dubbo.rpc.proxy.AbstractProxyInvoker.invoke(AbstractProxyInvoker.java:84)
+	at org.apache.dubbo.config.invoker.DelegateProviderMetaDataInvoker.invoke(DelegateProviderMetaDataInvoker.java:56)
+	at org.apache.dubbo.rpc.protocol.InvokerWrapper.invoke(InvokerWrapper.java:56)
+	at org.apache.dubbo.rpc.filter.ExceptionFilter.invoke(ExceptionFilter.java:55)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.monitor.support.MonitorFilter.invoke(MonitorFilter.java:92)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.TimeoutFilter.invoke(TimeoutFilter.java:48)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.dubbo.filter.TraceFilter.invoke(TraceFilter.java:81)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ContextFilter.invoke(ContextFilter.java:96)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.GenericFilter.invoke(GenericFilter.java:148)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.ClassLoaderFilter.invoke(ClassLoaderFilter.java:38)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.filter.EchoFilter.invoke(EchoFilter.java:41)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$1.invoke(ProtocolFilterWrapper.java:82)
+	at org.apache.dubbo.rpc.protocol.ProtocolFilterWrapper$CallbackRegistrationInvoker.invoke(ProtocolFilterWrapper.java:157)
+	at org.apache.dubbo.rpc.protocol.dubbo.DubboProtocol$1.reply(DubboProtocol.java:152)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.handleRequest(HeaderExchangeHandler.java:102)
+	at org.apache.dubbo.remoting.exchange.support.header.HeaderExchangeHandler.received(HeaderExchangeHandler.java:193)
+	at org.apache.dubbo.remoting.transport.DecodeHandler.received(DecodeHandler.java:51)
+	at org.apache.dubbo.remoting.transport.dispatcher.ChannelEventRunnable.run(ChannelEventRunnable.java:57)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: sql injection violation, syntax error: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY : select r.TENANT_ID,r.`CODE` ROLE_CODE,p.`CODE` PRIVILEGE_CODE from authorization_privilege p LEFT JOIN authorization_role_privilege arp ON arp.PRIVILEGE_ID=p.ID LEFT JOIN authorization_role r ON arp.ROLE_ID = r.ID where r.ID IN   ORDER BY r.TENANT_ID
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:806)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor309.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 81 more
+Caused by: com.alibaba.druid.sql.parser.ParserException: syntax error, error in :'RDER BY r.TENANT_ID', expect BY, actual BY pos 238, line 1, column 236, token BY
+	at com.alibaba.druid.sql.parser.SQLParser.printError(SQLParser.java:287)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:532)
+	at com.alibaba.druid.sql.parser.SQLStatementParser.parseStatementList(SQLStatementParser.java:182)
+	at com.alibaba.druid.wall.WallProvider.checkInternal(WallProvider.java:624)
+	at com.alibaba.druid.wall.WallProvider.check(WallProvider.java:578)
+	at com.alibaba.druid.wall.WallFilter.checkInternal(WallFilter.java:793)
+	at com.alibaba.druid.wall.WallFilter.connection_prepareStatement(WallFilter.java:259)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterEventAdapter.connection_prepareStatement(FilterEventAdapter.java:122)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.filter.FilterAdapter.connection_prepareStatement(FilterAdapter.java:930)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_prepareStatement(FilterChainImpl.java:568)
+	at com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl.prepareStatement(ConnectionProxyImpl.java:341)
+	at com.alibaba.druid.pool.DruidPooledConnection.prepareStatement(DruidPooledConnection.java:349)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.instantiateStatement(PreparedStatementHandler.java:86)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.prepare(BaseStatementHandler.java:88)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.prepare(RoutingStatementHandler.java:59)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor.intercept(PaginationInterceptor.java:156)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at sun.reflect.GeneratedMethodAccessor301.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy215.prepare(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:136)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	... 84 more
+
+	at com.shanjupay.uaa.integration.IntegrationUserDetailsAuthenticationHandler.authentication(IntegrationUserDetailsAuthenticationHandler.java:62)
+	at com.shanjupay.uaa.integration.IntegrationUserDetailsAuthenticationProvider.authenticationUser(IntegrationUserDetailsAuthenticationProvider.java:82)
+	at com.shanjupay.uaa.integration.IntegrationUserDetailsAuthenticationProvider.retrieveUser(IntegrationUserDetailsAuthenticationProvider.java:39)
+	... 113 more
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:40,355 WARN [http-nio-56020-exec-3][ExceptionHandlerExceptionResolver.java:419] - Failure in @ExceptionHandler public org.springframework.http.ResponseEntity<org.springframework.security.oauth2.common.exceptions.OAuth2Exception> org.springframework.security.oauth2.provider.endpoint.TokenEndpoint.handleException(java.lang.Exception) throws java.lang.Exception
+java.lang.IllegalArgumentException: Invalid characters (CR/LF) in header WWW-Authenticate
+	at org.springframework.security.web.firewall.FirewalledResponse.validateCrlf(FirewalledResponse.java:73)
+	at org.springframework.security.web.firewall.FirewalledResponse.addHeader(FirewalledResponse.java:55)
+	at javax.servlet.http.HttpServletResponseWrapper.addHeader(HttpServletResponseWrapper.java:174)
+	at org.springframework.security.web.util.OnCommittedResponseWrapper.addHeader(OnCommittedResponseWrapper.java:63)
+	at javax.servlet.http.HttpServletResponseWrapper.addHeader(HttpServletResponseWrapper.java:174)
+	at org.springframework.http.server.ServletServerHttpResponse.lambda$writeHeaders$0(ServletServerHttpResponse.java:103)
+	at java.util.Map.forEach(Map.java:630)
+	at org.springframework.http.server.ServletServerHttpResponse.writeHeaders(ServletServerHttpResponse.java:101)
+	at org.springframework.http.server.ServletServerHttpResponse.getBody(ServletServerHttpResponse.java:82)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:255)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:103)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:290)
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:223)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:82)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:119)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:408)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:61)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:139)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1297)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1109)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:158)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.oauth2.provider.client.ClientCredentialsTokenEndpointFilter.successfulAuthentication(ClientCredentialsTokenEndpointFilter.java:131)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:240)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:679)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:42,645 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:53,354 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:54,442 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:04:57,305 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:03,523 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:12,652 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:24,449 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:27,311 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:27,863 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:30,206 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:30,207 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:33,530 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:40,341 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:40,342 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:42,659 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:53,358 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:54,455 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:05:57,316 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:03,536 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:12,664 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:24,462 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:27,322 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:27,866 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:30,209 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:30,210 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:33,541 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:40,344 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:40,345 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:42,669 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:53,359 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:54,468 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:06:57,327 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:03,546 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:12,675 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:24,474 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:27,333 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:27,868 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:30,210 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:30,211 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:33,552 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:40,346 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:40,347 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:42,681 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:53,361 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:54,481 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:07:57,339 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:03,558 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:12,686 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:24,489 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:27,345 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:27,869 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:30,213 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:30,214 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:33,564 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:40,349 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:40,350 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:42,691 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:53,364 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:54,495 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:08:57,350 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:03,569 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:12,696 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:24,516 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:27,373 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:27,887 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:30,217 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:30,219 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:33,575 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:40,351 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:40,352 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:42,701 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:53,365 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:54,526 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:09:57,379 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:03,581 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:12,706 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:24,537 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:27,387 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:27,892 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:30,220 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:30,221 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:33,588 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:40,353 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:40,354 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:42,711 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:53,366 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:54,545 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:10:57,392 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:03,594 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:12,717 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:24,552 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:27,399 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:27,893 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:30,222 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:30,225 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:33,599 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:40,356 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:40,357 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:42,723 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:53,373 DEBUG [NettyServerWorker-6-3][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:42781, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:54,559 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:11:57,404 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:03,606 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:12,728 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:24,566 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:27,411 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:27,895 DEBUG [NettyServerWorker-6-4][HeartbeatHandler.java:74] -  [DUBBO] Received heartbeat from remote channel /169.254.149.21:44714, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:30,227 DEBUG [NettyClientWorker-4-2][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0xdc9769ff, L:/169.254.149.21:44757 - R:/169.254.149.21:20890]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:30,228 DEBUG [NettyClientWorker-4-2][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-2, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:33,612 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:40,359 DEBUG [NettyClientWorker-4-1][NettyClientHandler.java:121] -  [DUBBO] IdleStateEvent triggered, send heartbeat to channel NettyChannel [channel=[id: 0x4d824e15, L:/169.254.149.21:46187 - R:/169.254.149.21:20880]], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:40,360 DEBUG [NettyClientWorker-4-1][HeartbeatHandler.java:84] -  [DUBBO] Receive heartbeat response in thread NettyClientWorker-4-1, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:42,735 WARN [ThreadPoolTaskScheduler-1][DubboServiceMetadataRepository.java:216] - Current application will subscribe all services(size:6) in registry, a lot of memory and CPU cycles may be used, thus it's strongly recommend you using the externalized property 'dubbo.cloud.subscribed-services' to specify the services
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,843 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: dubbo://169.254.149.21:20891/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=merchant-application&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=merchant-application&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=18852&register=true&release=2.7.3&revision=2.1.0.RELEASE&side=provider&timestamp=1590052974228&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,907 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: provider://169.254.149.21:20891/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=merchant-application&bind.ip=169.254.149.21&bind.port=20891&category=configurators&check=false&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=merchant-application&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=18852&qos.enable=false&qos.port=22310&register=true&release=2.7.3&revision=2.1.0.RELEASE&side=provider&timestamp=1590052974228&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,927 INFO [Thread-68][DubboMetadataServiceExporter.java:107] - The Dubbo service[<dubbo:service path="com.alibaba.cloud.dubbo.service.DubboMetadataService" ref="com.alibaba.cloud.dubbo.service.IntrospectiveDubboMetadataService@71e55e48" prefix="dubbo.service.com.alibaba.cloud.dubbo.service.DubboMetadataService" generic="false" exported="true" unexported="true" interface="com.alibaba.cloud.dubbo.service.DubboMetadataService" dynamic="true" version="1.0.0" group="merchant-application" register="true" deprecated="false" id="com.alibaba.cloud.dubbo.service.DubboMetadataService" valid="true" />] has been unexported.
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,932 INFO [Thread-68][AwaitingNonWebApplicationListener.java:155] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,933 INFO [Thread-68][AbstractRegistryFactory.java:68] -  [DUBBO] Close all registries [nacos://127.0.0.1:8848/org.apache.dubbo.registry.RegistryService?application=merchant-application&dubbo=2.0.2&interface=org.apache.dubbo.registry.RegistryService&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&timestamp=1590052959640], dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,934 INFO [Thread-68][AbstractRegistry.java:458] -  [DUBBO] Destroy registry:nacos://127.0.0.1:8848/org.apache.dubbo.registry.RegistryService?application=merchant-application&dubbo=2.0.2&interface=org.apache.dubbo.registry.RegistryService&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&timestamp=1590052959640, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,937 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: consumer://169.254.149.21/com.shanjupay.merchant.api.AppService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.AppService&lazy=false&methods=queryAppByMerchant,createApp,getAppById&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959147, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,981 INFO [Thread-68][AbstractRegistry.java:467] -  [DUBBO] Destroy unregister url consumer://169.254.149.21/com.shanjupay.merchant.api.AppService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.AppService&lazy=false&methods=queryAppByMerchant,createApp,getAppById&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959147, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,981 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: consumer://169.254.149.21/com.shanjupay.merchant.api.MerchantService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.MerchantService&lazy=false&methods=bindStaffToStore,creatMerchant,queryMerchantById,applyMerchant,createStore,createStaff&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966524, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,990 INFO [Thread-68][AbstractRegistry.java:467] -  [DUBBO] Destroy unregister url consumer://169.254.149.21/com.shanjupay.merchant.api.MerchantService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.MerchantService&lazy=false&methods=bindStaffToStore,creatMerchant,queryMerchantById,applyMerchant,createStore,createStaff&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966524, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,992 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&generic=true&group=uaa-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966312&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,999 INFO [Thread-68][AbstractRegistry.java:467] -  [DUBBO] Destroy unregister url consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&generic=true&group=uaa-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966312&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:43,999 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&generic=true&group=user-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959618&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,005 INFO [Thread-68][AbstractRegistry.java:467] -  [DUBBO] Destroy unregister url consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&generic=true&group=user-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959618&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,005 INFO [Thread-68][AbstractRegistry.java:291] -  [DUBBO] Unregister: consumer://169.254.149.21/com.shanjupay.transaction.api.PayChannelService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.transaction.api.PayChannelService&lazy=false&methods=queryPayChannelParamByAppAndPlatform,queryParamByAppPlatformAndPayChannel,queryPlatformChannel,bindPlatformChannelForApp,queryAppBindPlatformChannel,queryPayChannelByPlatformChannel,savePayChannelParam&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052967114, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,017 INFO [Thread-68][AbstractRegistry.java:467] -  [DUBBO] Destroy unregister url consumer://169.254.149.21/com.shanjupay.transaction.api.PayChannelService?application=merchant-application&category=consumers&check=false&dubbo=2.0.2&interface=com.shanjupay.transaction.api.PayChannelService&lazy=false&methods=queryPayChannelParamByAppAndPlatform,queryParamByAppPlatformAndPayChannel,queryPlatformChannel,bindPlatformChannelForApp,queryAppBindPlatformChannel,queryPayChannelByPlatformChannel,savePayChannelParam&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052967114, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,018 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: consumer://169.254.149.21/com.shanjupay.merchant.api.AppService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.AppService&lazy=false&methods=queryAppByMerchant,createApp,getAppById&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959147, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,018 INFO [Thread-68][AbstractRegistry.java:483] -  [DUBBO] Destroy unsubscribe url consumer://169.254.149.21/com.shanjupay.merchant.api.AppService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.AppService&lazy=false&methods=queryAppByMerchant,createApp,getAppById&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959147, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,019 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&generic=true&group=user-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959618&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,019 INFO [Thread-68][AbstractRegistry.java:483] -  [DUBBO] Destroy unsubscribe url consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&generic=true&group=user-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052959618&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,019 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: consumer://169.254.149.21/com.shanjupay.merchant.api.MerchantService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.MerchantService&lazy=false&methods=bindStaffToStore,creatMerchant,queryMerchantById,applyMerchant,createStore,createStaff&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966524, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,019 INFO [Thread-68][AbstractRegistry.java:483] -  [DUBBO] Destroy unsubscribe url consumer://169.254.149.21/com.shanjupay.merchant.api.MerchantService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.merchant.api.MerchantService&lazy=false&methods=bindStaffToStore,creatMerchant,queryMerchantById,applyMerchant,createStore,createStaff&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966524, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,020 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&generic=true&group=uaa-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966312&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,020 INFO [Thread-68][AbstractRegistry.java:483] -  [DUBBO] Destroy unsubscribe url consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&generic=true&group=uaa-service&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052966312&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,020 INFO [Thread-68][AbstractRegistry.java:320] -  [DUBBO] Unsubscribe: consumer://169.254.149.21/com.shanjupay.transaction.api.PayChannelService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.transaction.api.PayChannelService&lazy=false&methods=queryPayChannelParamByAppAndPlatform,queryParamByAppPlatformAndPayChannel,queryPlatformChannel,bindPlatformChannelForApp,queryAppBindPlatformChannel,queryPayChannelByPlatformChannel,savePayChannelParam&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052967114, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,020 INFO [Thread-68][AbstractRegistry.java:483] -  [DUBBO] Destroy unsubscribe url consumer://169.254.149.21/com.shanjupay.transaction.api.PayChannelService?application=merchant-application&category=providers,configurators,routers&check=false&dubbo=2.0.2&interface=com.shanjupay.transaction.api.PayChannelService&lazy=false&methods=queryPayChannelParamByAppAndPlatform,queryParamByAppPlatformAndPayChannel,queryPlatformChannel,bindPlatformChannelForApp,queryAppBindPlatformChannel,queryPayChannelByPlatformChannel,savePayChannelParam&pid=18852&qos.enable=false&qos.port=22310&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=3000&timestamp=1590052967114, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,023 INFO [Thread-68][DubboProtocol.java:616] -  [DUBBO] Close dubbo server: /169.254.149.21:20891, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,141 INFO [Exporter-Unexport-thread-1][RegistryProtocol.java:689] -  [DUBBO] Waiting 10000ms for registry to notify all consumers before unexport. Usually, this is called when you use dubbo API, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,926 WARN [com.alibaba.nacos.naming.client.listener][AbstractRegistry.java:395] -  [DUBBO] Ignore empty notify urls for subscribe url provider://169.254.149.21:20891/com.alibaba.cloud.dubbo.service.DubboMetadataService?anyhost=true&application=merchant-application&bind.ip=169.254.149.21&bind.port=20891&category=configurators&check=false&deprecated=false&dubbo=2.0.2&dynamic=true&generic=false&group=merchant-application&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&methods=getAllServiceKeys,getServiceRestMetadata,getExportedURLs,getAllExportedURLs&pid=18852&qos.enable=false&qos.port=22310&register=true&release=2.7.3&revision=2.1.0.RELEASE&side=provider&timestamp=1590052974228&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21
+[${project.name}][${env:SERVER_PORT}] 2020-05-21 19:12:44,965 WARN [com.alibaba.nacos.naming.client.listener][AbstractRegistry.java:395] -  [DUBBO] Ignore empty notify urls for subscribe url consumer://169.254.149.21/org.apache.dubbo.rpc.service.GenericService?application=merchant-service&category=providers,configurators,routers&check=false&dubbo=2.0.2&generic=true&group=merchant-application&interface=com.alibaba.cloud.dubbo.service.DubboMetadataService&lazy=false&pid=25876&qos.enable=false&qos.port=22240&release=2.7.3&retries=-1&side=consumer&sticky=false&timeout=90000&timestamp=1590053175097&version=1.0.0, dubbo version: 2.7.3, current host: 169.254.149.21

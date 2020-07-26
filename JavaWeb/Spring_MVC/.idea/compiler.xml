@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring_HelloMVC" />
+        <module name="Spring_mvc_ajax" />
+        <module name="soringMVC_interceoter" />
+        <module name="Springmvc_fileUp_Down" />
+        <module name="SpringMVC_control" />
+        <module name="Spring_selvet" />
+        <module name="Springmvc_03_annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Springmvc_fileUp_down" target="1.5" />
+      <module name="ssmBuild" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

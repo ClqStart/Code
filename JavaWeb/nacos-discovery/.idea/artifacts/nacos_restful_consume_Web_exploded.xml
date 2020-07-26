@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="nacos-restful-consume:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/nacos_restful_consume_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="nacos-restful-consume/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="nacos-restful-consume" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Interface" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\study_tool\maven\apache-maven-3.5.4\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDAKH1RVffWvpT8BGdHX5jxF0Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shanjupay-merchant/shanjupay-merchant-service" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3127875" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shanjupay.transaction" />
+      <recent name="com.shanjupay.merchant" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shanjupay.merchant.convert" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\shanjupay\shanjupay\shanjupay-merchant\shanjupay-merchant-service\src\main\java\com\shanjupay\merchant\convert" />
+      <recent name="D:\JavaWeb\shanjupay\shanjupay\shanjupay-transaction\shanjupay-transaction-service\src\main\java\com\shanjupay\transaction\util" />
+      <recent name="D:\JavaWeb\shanjupay\shanjupay\shanjupay-common\src\main\java\com\shanjupay\common\util" />
+      <recent name="D:\JavaWeb\shanjupay\shanjupay\shanjupay-merchant-application\src\main\java\com\shanjupay\merchant\util" />
+      <recent name="D:\JavaWeb\shanjupay\shanjupay\shanjupay-merchant-application\src\test\java\com\shanjupay\merchant" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPayChannelService.testQueryPayChannelByPlatformChannel">
+    <configuration name="QiniuUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.common.util.QiniuUtils" />
+      <module name="shanjupay-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.common.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTemplateTest.getHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.merchant" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.merchant.RestTemplateTest" />
+      <option name="METHOD_NAME" value="getHtml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTemplateTest.getSms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.merchant" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.merchant.RestTemplateTest" />
+      <option name="METHOD_NAME" value="getSms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayChannelService.testQueryPayChannelByPlatformChannel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-transaction-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.transaction" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.transaction.TestPayChannelService" />
+      <option name="METHOD_NAME" value="testQueryPayChannelByPlatformChannel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenTemp.createTestToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shanjupay-merchant-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shanjupay.merchant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shanjupay.merchant" />
+      <option name="MAIN_CLASS_NAME" value="com.shanjupay.merchant.TokenTemp" />
+      <option name="METHOD_NAME" value="createTestToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.gateway.GatewayBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantApplicationBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-merchant-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantApplicationBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-merchant-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.merchant.MerchantBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-transaction-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.transaction.TransactionBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UAABootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-uaa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.uaa.UAABootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shanjupay-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shanjupay.user.UserBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.QiniuUtils" />
+      <item itemvalue="JUnit.RestTemplateTest.getHtml" />
+      <item itemvalue="JUnit.RestTemplateTest.getSms" />
+      <item itemvalue="JUnit.TokenTemp.createTestToken" />
+      <item itemvalue="JUnit.TestPayChannelService.testQueryPayChannelByPlatformChannel" />
+      <item itemvalue="Spring Boot.MerchantApplicationBootstrap" />
+      <item itemvalue="Spring Boot.GatewayBootstrap" />
+      <item itemvalue="Spring Boot.MerchantBootstrap" />
+      <item itemvalue="Spring Boot.TransactionBootstrap" />
+      <item itemvalue="Spring Boot.UserBootstrap" />
+      <item itemvalue="Spring Boot.UAABootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPayChannelService.testQueryPayChannelByPlatformChannel" />
+        <item itemvalue="JUnit.TokenTemp.createTestToken" />
+        <item itemvalue="Application.QiniuUtils" />
+        <item itemvalue="JUnit.RestTemplateTest.getSms" />
+        <item itemvalue="JUnit.RestTemplateTest.getHtml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af676df8-9b88-4e33-add3-e3037e2e5f86" name="Default Changelist" comment="" />
+      <created>1571122367193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571122367193</updated>
+      <workItem from="1571122368559" duration="2074000" />
+      <workItem from="1571187766500" duration="1006000" />
+      <workItem from="1574317695353" duration="577000" />
+      <workItem from="1574318311412" duration="682000" />
+      <workItem from="1574404354823" duration="998000" />
+      <workItem from="1588156226698" duration="17489000" />
+      <workItem from="1588250081582" duration="173000" />
+      <workItem from="1588250327394" duration="13000" />
+      <workItem from="1589799869067" duration="90638000" />
+      <workItem from="1590028916919" duration="29966000" />
+      <workItem from="1590071810393" duration="3677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="27" key="#Inspections" timestamp="1589973483540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="27" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589973483540" />
+    <state x="524" y="200" key="#Notifications" timestamp="1590060031021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="200" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590060031021" />
+    <state x="133" y="10" width="1222" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589813139809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="10" width="1222" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589813139809" />
+    <state x="441" y="4" key="#com.intellij.ide.util.MemberChooser" timestamp="1590043559992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="4" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590043559992" />
+    <state x="129" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589884089134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589884089134" />
+    <state x="199" y="211" width="968" height="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590049333182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="199" y="211" width="968" height="317" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1590049333182" />
+    <state x="160" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589896073930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="160" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1589896073929" />
+    <state x="401" y="0" key="FileChooserDialogImpl" timestamp="1590073201846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="0" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590073201846" />
+    <state width="1036" height="180" key="GridCell.Tab.-1.bottom" timestamp="1589983572453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1036" height="180" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589983572453" />
+    <state width="1036" height="180" key="GridCell.Tab.-1.center" timestamp="1589983572453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1036" height="180" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1589983572453" />
+    <state width="1036" height="180" key="GridCell.Tab.-1.left" timestamp="1589983572452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1036" height="180" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1589983572451" />
+    <state width="1036" height="180" key="GridCell.Tab.-1.right" timestamp="1589983572453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1036" height="180" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1589983572453" />
+    <state width="988" height="278" key="GridCell.Tab.0.bottom" timestamp="1590075708061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590075708061" />
+    <state width="988" height="278" key="GridCell.Tab.0.center" timestamp="1590075708060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.center.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590075708060" />
+    <state width="988" height="278" key="GridCell.Tab.0.left" timestamp="1590075708059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.left.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590075708059" />
+    <state width="988" height="278" key="GridCell.Tab.0.right" timestamp="1590075708060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.0.right.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590075708060" />
+    <state width="988" height="278" key="GridCell.Tab.1.bottom" timestamp="1590075708062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590075708062" />
+    <state width="988" height="278" key="GridCell.Tab.1.center" timestamp="1590075708062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.center.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590075708062" />
+    <state width="988" height="278" key="GridCell.Tab.1.left" timestamp="1590075708061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.left.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590075708061" />
+    <state width="988" height="278" key="GridCell.Tab.1.right" timestamp="1590075708062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1589810787468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="892" height="118" key="GridCell.Tab.1.right.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810787468" />
+    <state width="988" height="278" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590075708062" />
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.bottom" timestamp="1590075708064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590075708064" />
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.center" timestamp="1590075708063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1590075708063" />
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.left" timestamp="1590075708063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1590075708063" />
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.right" timestamp="1590075708063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="988" height="278" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590075708063" />
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.bottom" timestamp="1589983576721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589983576721" />
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.center" timestamp="1589983576720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1589983576720" />
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.left" timestamp="1589983576719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1589983576719" />
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.right" timestamp="1589983576720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="1036" height="143" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1589983576720" />
+    <state x="97" y="0" key="Maven.ArtifactSearchDialog" timestamp="1590072649852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="97" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1590072649852" />
+    <state x="201" y="4" key="NewModule_or_Project.wizard" timestamp="1590073204356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="201" y="4" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1590073204356" />
+    <state x="154" y="25" width="1058" height="557" key="Registry" timestamp="1589890037827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="154" y="25" width="1058" height="557" key="Registry/0.0.1366.728@0.0.1366.728" timestamp="1589890037827" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1590073206455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590073206455" />
+    <state width="623" height="666" key="SwitcherDM" timestamp="1590050438357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="726" key="SwitcherDM.inPresentationMode" timestamp="1589810831852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="726" key="SwitcherDM.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589810831852" />
+    <state width="623" height="666" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1590050438357" />
+    <state x="392" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589983101998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1589983101998" />
+    <state x="88" y="385" width="1052" height="213" key="dock-window-1" timestamp="1589983809281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="88" y="385" width="1052" height="213" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1589983809281" />
+    <state x="518" y="198" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1589892345085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="198" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1589892345085" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1589863691797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589863691797" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1590058426224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590058426224" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shanjupay-transaction/shanjupay-transaction-service/src/test/java/com/shanjupay/transaction/TestPayChannelService.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

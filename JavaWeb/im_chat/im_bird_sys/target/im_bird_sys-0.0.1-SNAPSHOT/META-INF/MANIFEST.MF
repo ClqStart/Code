@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: root
+Build-Jdk: 1.8.0_91
+Implementation-Title: im_bird_sys
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.clq
+Main-Class: ${start-class}
+

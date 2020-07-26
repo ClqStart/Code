@@ -1,0 +1,3 @@
+[${project.name}][${env:SERVER_PORT}] 2020-05-20 20:01:08,851 ERROR [http-nio-57010-exec-1][GlobalExceptionHandler.java:43] - 【系统异常】Required String parameter 'platformChannel' is not present
+[${project.name}][${env:SERVER_PORT}] 2020-05-20 20:02:04,733 ERROR [http-nio-57010-exec-4][GlobalExceptionHandler.java:43] - 【系统异常】Required String parameter 'platformChannel' is not present
+[${project.name}][${env:SERVER_PORT}] 2020-05-20 20:02:38,357 ERROR [http-nio-57010-exec-7][GlobalExceptionHandler.java:43] - 【系统异常】Required String parameter 'platformChannel' is not present

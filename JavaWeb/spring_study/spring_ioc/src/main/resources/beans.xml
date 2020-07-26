@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="UserDaoImpl" class="com.kuang.dao.UserDaoImpl"/>
+    <bean id="MysqlImpl" class="com.kuang.dao.UserDaoMysqlImpl"/>
+    <bean id="OracalImpl" class="com.kuang.dao.UserDaoOracalImpl"/>
+
+    <bean id="UserServiceImpl" class="com.kuang.service.UserServiceImpl">
+        <property name="userDao" ref="OracalImpl"/>
+    </bean>
+    <bean id="UserServiceImpl2" class="com.kuang.service.UserServiceImpl">
+        <property name="userDao" ref="MysqlImpl"/>
+    </bean>
+    <bean id="UserServiceImpl3" class="com.kuang.service.UserServiceImpl">
+        <property name="userDao" ref="UserDaoImpl"/>
+    </bean>
+
+</beans>

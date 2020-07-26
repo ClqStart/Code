@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kuang.dao.UserMapper">
+
+    <resultMap id="UserMap" type="user">
+        <result column="id" property="id"></result>
+        <result column="name" property="name"></result>
+        <result column="pwd" property="password"></result>
+    </resultMap>
+
+    <select id="getUserList" resultMap="UserMap">
+     select * from mybatis.user
+ </select>
+
+    <resultMap id="RMap" type="user">
+        <result column="id" property="id"></result>
+        <result column="name" property="name"></result>
+        <result column="pwd" property="password"></result>
+    </resultMap>
+
+    <select id="getUserByRowBound" resultMap="RMap">
+        select * from mybatis.user;
+    </select>
+    <select id="getUserByLimit" resultMap="RMap">
+        select * from mybatis.user limit #{start},#{pagesize};
+    </select>
+
+
+    <!--==========================================================-->
+
+    <!--    <select id="getUserList" resultType="user">-->
+    <!--        select  id,name,pwd as password from mybatis.user-->
+    <!--    </select>-->
+
+</mapper>

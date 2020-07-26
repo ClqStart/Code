@@ -1,0 +1,34 @@
+person:
+  name: clq${random.uuid}
+  age: ${random.int}
+  happy: false
+  birth: 2019/11/02
+  maps: {k1: v1,k2: v2}
+  hello: happyH
+  lists:
+    - code
+    - music
+    - girl
+  dog:
+    name: ${person.hello:hello}_旺财
+    age: 3
+
+
+server:
+  port: 8081
+spring:
+  profiles:
+    active: dev
+
+
+---
+server:
+  port: 8082
+spring:
+  profiles: dev
+
+---
+server:
+  port: 8083
+spring:
+  profiles: test

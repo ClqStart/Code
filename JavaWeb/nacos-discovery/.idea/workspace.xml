@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88b98703-7d62-4f80-878d-0125502c422c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\study_tool\maven\repasitory" />
+        <option name="mavenHome" value="E:/study_tool/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\study_tool\maven\apache-maven-3.5.4\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bAewBA0Pg9Z4H82lkudzh3M8uc" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\nacos-discovery\nacos‐dubbo‐service1\src\main\resources" />
+      <recent name="D:\JavaWeb\nacos-discovery\nacos‐dubbo‐service2\service2-server\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\nacos-discovery\nacos‐dubbo‐service1\service1-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Service1Bootstrap">
+    <configuration name="Service1Bootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service1-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.microservice.service1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clq.microservice.service1.Service1Bootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service2Bootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.microservice.service2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clq.microservice.service2.Service2Bootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRestConsumerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-restful-consume" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clq.springcloud.SpringRestConsumerBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRestProviderBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="nacos-restful-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clq.springcloud.SpringRestProviderBootstrap" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=56010" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRestProviderBootstrap2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-restful-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clq.springcloud.SpringRestProviderBootstrap" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=56011" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/JavaWeb/nacos-discovery/nacos-restful-provider/src/main/resources/application.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nacos-restful-provider" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/nacos-restful-provider/src/main/resources/application.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringRestProviderBootstrap2" />
+      <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+      <item itemvalue="Spring Boot.SpringRestProviderBootstrap" />
+      <item itemvalue="Spring Boot.Service2Bootstrap" />
+      <item itemvalue="Spring Boot.Service1Bootstrap" />
+      <item itemvalue="TestNG.D:/JavaWeb/nacos-discovery/nacos-restful-provider/src/main/resources/application.yaml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+        <item itemvalue="Spring Boot.Service1Bootstrap" />
+        <item itemvalue="Spring Boot.Service2Bootstrap" />
+        <item itemvalue="Spring Boot.SpringRestProviderBootstrap" />
+        <item itemvalue="TestNG.D:/JavaWeb/nacos-discovery/nacos-restful-provider/src/main/resources/application.yaml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b98703-7d62-4f80-878d-0125502c422c" name="Default Changelist" comment="" />
+      <created>1588079561933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588079561933</updated>
+      <workItem from="1588079567289" duration="485000" />
+      <workItem from="1588080057687" duration="80000" />
+      <workItem from="1588080198125" duration="1019000" />
+      <workItem from="1588081300884" duration="10890000" />
+      <workItem from="1588128112268" duration="12376000" />
+      <workItem from="1589800692748" duration="5732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="89" y="0" key="SettingsEditor" timestamp="1589800731762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="89" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589800731762" />
+  </component>
+</project>

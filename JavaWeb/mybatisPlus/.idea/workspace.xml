@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd32c36-e364-4347-9287-cb869c5e8556" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\study_tool\maven\repasitory" />
+        <option name="mavenHome" value="E:/study_tool/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\study_tool\maven\apache-maven-3.5.4\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bCzrfSzsqeYQKCKpt0OnaQeavR" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\mybatisPlus\src\main\resources\mapper" />
+      <recent name="D:\JavaWeb\mybatisPlus\src\main\resources\com\clq\mybatisp\mapper" />
+      <recent name="D:\JavaWeb\mybatisPlus\src\main\resources\com\clq\mybatisp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.testSelect">
+    <configuration name="UserMapperTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.mybatisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clq.mybatisp" />
+      <option name="MAIN_CLASS_NAME" value="com.clq.mybatisp.UserMapperTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.mybatisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clq.mybatisp" />
+      <option name="MAIN_CLASS_NAME" value="com.clq.mybatisp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.mybatisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clq.mybatisp" />
+      <option name="MAIN_CLASS_NAME" value="com.clq.mybatisp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.mybatisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clq.mybatisp" />
+      <option name="MAIN_CLASS_NAME" value="com.clq.mybatisp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testUpdate3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisPlus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clq.mybatisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clq.mybatisp" />
+      <option name="MAIN_CLASS_NAME" value="com.clq.mybatisp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testUpdate3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.testSelect" />
+        <item itemvalue="JUnit.UserMapperTest.testUpdate3" />
+        <item itemvalue="JUnit.UserMapperTest.testUpdate" />
+        <item itemvalue="JUnit.UserMapperTest.testInsert" />
+        <item itemvalue="JUnit.UserMapperTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd32c36-e364-4347-9287-cb869c5e8556" name="Default Changelist" comment="" />
+      <created>1588151063934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588151063934</updated>
+      <workItem from="1588151070228" duration="4039000" />
+      <workItem from="1589807554707" duration="2248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1313" height="3" key="GridCell.Tab.0.bottom" timestamp="1589809817306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589809817306" />
+    <state width="1313" height="3" key="GridCell.Tab.0.center" timestamp="1589809817306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589809817306" />
+    <state width="1313" height="3" key="GridCell.Tab.0.left" timestamp="1589809817306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589809817306" />
+    <state width="1313" height="3" key="GridCell.Tab.0.right" timestamp="1589809817306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589809817306" />
+    <state x="89" y="0" key="SettingsEditor" timestamp="1589808588461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="89" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589808588461" />
+    <state x="337" y="42" width="675" height="655" key="StructurePopup" timestamp="1589808879949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="42" width="675" height="655" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1589808879949" />
+    <state width="776" height="726" key="SwitcherDM.inPresentationMode" timestamp="1589809602458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="776" height="726" key="SwitcherDM.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589809602458" />
+    <state x="156" y="-1" key="search.everywhere.popup.inPresentationMode" timestamp="1589809174409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="156" y="-1" key="search.everywhere.popup.inPresentationMode/0.0.1366.728@0.0.1366.728" timestamp="1589809174409" />
+  </component>
+</project>

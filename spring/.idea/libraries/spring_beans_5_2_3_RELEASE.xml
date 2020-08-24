@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-beans-5.2.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../资料/spring-5.2.3.RELEASE-dist/spring-framework-5.2.3.RELEASE/libs/spring-beans-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../资料/spring-5.2.3.RELEASE-dist/spring-framework-5.2.3.RELEASE/libs/spring-context-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../资料/spring-5.2.3.RELEASE-dist/spring-framework-5.2.3.RELEASE/libs/spring-core-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../资料/spring-5.2.3.RELEASE-dist/spring-framework-5.2.3.RELEASE/libs/spring-expression-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../资料/msb/InternetArchitect/01 Spring/04 spring，ioc入门与详解/01SpringHelloWorld/libs/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-logging-1.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

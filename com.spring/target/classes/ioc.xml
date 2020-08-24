@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+        <bean id="person" class="com.bean.Person">
+            <property name="id" value="1"></property>
+            <property name="name" value="lisi"></property>
+            <property name="age" value="18"></property>
+            <property name="gender" value="男"></property>
+            <property name="date" value="2020/07/1"></property>
+            <property name="properties">
+                <props>
+                    <prop key="111">aaa</prop>
+                    <prop key="222">bbb</prop>
+                </props>
+            </property>
+        </bean>
+
+<!--    静态方法  类.方法-->
+      <bean id="person2" class="com.bean.PersonStaticFactory" factory-method="getPerson">
+          <constructor-arg value="lisi"/>
+      </bean>
+
+<!--实例方法   先创建工厂，再调用方法-->
+     <bean id="InstanceFactory" class="com.bean.PersonInstanceFactory" ></bean>
+
+    <bean id="person3" class="com.bean.PersonInstanceFactory" factory-bean="InstanceFactory" factory-method="getPerson">
+        <constructor-arg value="wangwu"></constructor-arg>
+    </bean>
+
+    <bean id="myfactoryBean" class="com.bean.MyFactoryBean"></bean>
+    <bean id="MyBeanPostProcessor" class="com.bean.MyBeanPostProcessor"></bean>
+
+
+</beans>

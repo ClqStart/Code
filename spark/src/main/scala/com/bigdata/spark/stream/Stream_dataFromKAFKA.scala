@@ -18,8 +18,11 @@ object Stream_dataFromKAFKA {
       streamingContext,
       "node102:2181",
       "first",
-      Map("first" -> 3)
+      Map("first" -> 3)  //主题和分区器的关系
     )
+
+
+
 
     val wordDStram: DStream[String] = kafkaRDD.flatMap(t => t._2.split(" "))
 
